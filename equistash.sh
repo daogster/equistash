@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 wget download.optiminer.pl/optiminer-equihash-2.1.2.tar.gz
 tar zxvf optiminer-equihash-2.1.2.tar.gz
 cd optiminer-equihash
